@@ -1,0 +1,15 @@
+{
+  "project_info": {
+    "project_number": "YOUR_PROJECT_NUMBER",
+    "project_id": "your-firebase-project-id"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1234567890:android:abcdef123456",
+        "android_client_info": { "package_name": "com.example.stocknewsclient" }
+      },
+      "api_key": [ { "current_key": "YOUR_FIREBASE_API_KEY" } ]
+    }
+  ]
+}
